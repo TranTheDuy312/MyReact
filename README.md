@@ -16,4 +16,4 @@ Bài tập môn React
  13. [Câu 20](https://codepen.io/TranTheDuy312/pen/dyKLRVe)
  14. [Câu 21](https://codepen.io/TranTheDuy312/pen/xxzerXX)
 ## Thực Hành 
- 1. [Bài thực hành tạo và làm quen React và tạo Component(https://codesandbox.io/s/inspiring-pine-kidee1?file=/src/Footer.js)
+ 1. [Bài thực hành tạo và làm quen React và tạo Component](https://codesandbox.io/s/inspiring-pine-kidee1?file=/src/Footer.js)
