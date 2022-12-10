@@ -11,4 +11,9 @@ Bài tập môn React
  8.  [Câu 14](https://codepen.io/TranTheDuy312/pen/OJExOqQ)
  9.  [Câu 16](https://codepen.io/TranTheDuy312/pen/XWYqLEp)
  10. [Câu 17](https://codepen.io/TranTheDuy312/pen/mdKLZxz)
+ 11. [Câu 18](https://codepen.io/TranTheDuy312/pen/WNyWOXN)
+ 12. [Câu 19](https://codepen.io/TranTheDuy312/pen/PoagjJL)
+ 13. [Câu 20](https://codepen.io/TranTheDuy312/pen/dyKLRVe)
+ 14. [Câu 21](https://codepen.io/TranTheDuy312/pen/xxzerXX)
 ## Thực Hành 
+ 1. [Bài thực hành số 1](
